@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
+=======
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
 # Customer Churn Prediction System
 
 > **An intelligent AI-powered platform for predictive customer retention analytics**
@@ -145,18 +148,40 @@ streamlit run streamlit_app/app.py
 ### **Executive Intelligence Center**
 
 The executive dashboard provides C-level executives with immediate insights into customer retention performance, featuring dynamic KPI cards, professional visualizations, and strategic business intelligence.
+<<<<<<< HEAD
+=======
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163627" src="https://github.com/user-attachments/assets/9596f872-9559-4d79-a895-879063f50233" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163635" src="https://github.com/user-attachments/assets/a126fd88-0a80-4d79-a423-891d5ef95a7e" />
+
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
 
 ### **AI-Powered Prediction Interface**
 
 The prediction system offers real-time customer risk assessment with comprehensive input forms, intelligent risk scoring, and actionable retention recommendations tailored to specific risk levels.
+<<<<<<< HEAD
+=======
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163647" src="https://github.com/user-attachments/assets/bc4585b4-0c93-408c-a08c-946f1436f752" />
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
 
 ### **Advanced Analytics Platform**
 
 Deep-dive analytics provide detailed insights into churn patterns, contract analysis, payment method impact, and customer lifecycle behavior through interactive visualizations.
+<<<<<<< HEAD
+=======
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163927" src="https://github.com/user-attachments/assets/ad6b97d7-eceb-4307-a9b2-48714368e1c0" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163935" src="https://github.com/user-attachments/assets/81381977-b217-434e-b638-f3fdd88de728" />
+
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
 
 ### **Model Performance Center**
 
 The performance dashboard showcases model comparison metrics, ROC curve analysis, and feature importance rankings to ensure optimal predictive accuracy.
+<<<<<<< HEAD
+=======
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163955" src="https://github.com/user-attachments/assets/ee942013-a4f0-4dd1-b920-849ba7be3998" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 163948" src="https://github.com/user-attachments/assets/d5f38e25-a115-4bf3-8bd6-99b5265ff042" />
+
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
 
 ## 🎯 **Business Impact \& ROI**
 
@@ -321,4 +346,8 @@ This project demonstrates advanced capabilities in:
 
 - Ankur Yadav
 - [LinkedIn](https://www.linkedin.com/in/ankur-yadav-0403bb2a9)
+<<<<<<< HEAD
 - [GitHub](https://github.com/incendio221)
+=======
+- [GitHub](https://github.com/incendio221)
+>>>>>>> fe14d370a3dd5fa62bd5b5c29ac71ca40aa4810f
