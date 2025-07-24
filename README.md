@@ -303,22 +303,6 @@ This project demonstrates advanced capabilities in:
 - Project management and technical documentation
 
 
-## 📄 **Technical Documentation**
-
-### **System Requirements**
-
-- **Minimum**: Python 3.7, 4GB RAM, 1GB storage
-- **Recommended**: Python 3.9+, 8GB RAM, 2GB storage
-- **Optimal**: Python 3.10+, 16GB RAM, SSD storage
-
-
-### **Performance Benchmarks**
-
-- **Model Training**: 2-5 minutes on standard hardware
-- **Prediction Latency**: <100ms per individual prediction
-- **Dashboard Loading**: <2 seconds for complete interface
-- **Concurrent Users**: 10-50 simultaneous dashboard sessions
-
 ## 👤 Author
 
 
